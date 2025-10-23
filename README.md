@@ -1,11 +1,11 @@
 # Protein Structure Classification 🧬  
 UTD Biotech Club – Mini Project Workshop (Fall 2025)
 
-## 🧠 Overview
+## Overview
 This project aims to train ML models to classify protein structures (enzyme, membrane protein, etc.) using structural and experimental metadata.  
 It’s part of a 5-week workshop focused on learning data preprocessing, feature engineering, model training, and hyperparameter tuning.
 
-## 📅 Progress Log
+## Progress Log
 ### Week 1 – Data Cleaning & Visualization
 - Loaded dataset and inspected columns using pandas
 - Handled missing values
@@ -19,11 +19,11 @@ It’s part of a 5-week workshop focused on learning data preprocessing, feature
 - **Week 4:** Hyperparameter tuning and pipeline building  
 - **Week 5:** Final presentation and app demo  
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python, Pandas, NumPy  
 - Matplotlib, Seaborn  
 - Google Colab
 
-## 👤 Author
+## Author
 **Sithranjan Suresh**  
 Computer Science @ UTD | Cybersecurity & AI Enthusiast
