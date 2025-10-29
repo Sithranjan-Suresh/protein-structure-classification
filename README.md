@@ -13,8 +13,17 @@ It’s part of a 5-week workshop focused on learning data preprocessing, feature
 - Visualized correlations using a heatmap
 - Learned why features like resolution and residue count matter in protein crystallography
 
-### Upcoming Weeks
-- **Week 2:** Feature encoding and normalization  
+### Week 2 – Feature Encoding & Normalization
+- Differentiated between categorical and numerical features
+- Encoded categorical variables using OneHot and LabelEncoding:
+  - `experimentalTechnique`
+  - `macromoleculeType`
+  - `crystallizationMethod`
+- Normalized numeric features (`residueCount`, `resolution`, `molecularWeight`)
+- Built pairplots of numeric features colored by protein classification
+- Gained hands-on experience preparing data for ML model training
+- 
+### Upcoming Weeks 
 - **Week 3:** Model training and evaluation  
 - **Week 4:** Hyperparameter tuning and pipeline building  
 - **Week 5:** Final presentation and app demo  
