@@ -22,7 +22,7 @@ It’s part of a 5-week workshop focused on learning data preprocessing, feature
 - Normalized numeric features (`residueCount`, `resolution`, `molecularWeight`)
 - Built pairplots of numeric features colored by protein classification
 - Gained hands-on experience preparing data for ML model training
-- 
+  
 ### Upcoming Weeks 
 - **Week 3:** Model training and evaluation  
 - **Week 4:** Hyperparameter tuning and pipeline building  
