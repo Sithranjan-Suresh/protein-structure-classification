@@ -66,11 +66,12 @@ This project focuses on training machine learning models to classify protein str
 ```
 week1_data_cleaning_visualization/
 week2_feature_encoding_normalization/
-week3_classification_models_and_evaluation/
+week3_classification_models/
 week4_kidney_disease_prediction/
 ```
 
 ## Author
 
 **Sithranjan Suresh**
+
 Computer Science @ UTD | Cybersecurity & AI Enthusiast
