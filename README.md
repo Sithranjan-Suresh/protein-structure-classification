@@ -64,8 +64,8 @@ This project focuses on training machine learning models to classify protein str
 ## Project Structure
 
 ```
-week1_data_cleaning_visualization/
-week2_feature_encoding_normalization/
+week1_data_cleaning/
+week2_encode_and_normalize/
 week3_classification_models/
 week4_kidney_disease_prediction/
 ```
